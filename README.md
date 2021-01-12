@@ -1,6 +1,6 @@
 # Dapper-ASP.NET-Core-MSSQL
 
-Projeto criando uma webapi REST com Dapper e acessando uma base de dados hospedada em um container Docker com o VSCode. Para a base de dados escolhei uma imagem do MSSQL 2019 do Ubuntu e então para a criação do container escrevi um _dockerfile_ que leva embutido um script para subir a base de dados de exemplo Northwind com informações pré cadastradas.
+Projeto criando uma webapi REST com Dapper e acessando uma base de dados hospedada em um container Docker com o VSCode. Para a base de dados escolhi uma imagem do MSSQL 2019 do Ubuntu e então para a criação do container escrevi um _dockerfile_ que leva embutido um script para subir a base de dados de exemplo Northwind com informações pré cadastradas.
 
 Resolvi alguns problemas hipotéticos:
 
