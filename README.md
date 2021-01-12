@@ -7,5 +7,5 @@ Resolvi alguns problemas hipotéticos:
 
 1. Apresentar um ranking com os melhores vendedores.
 1. Totalizar as vendas anuais.
-1. Listar todos os produtos cadastrados com suas categorias e fornecedores e a possibilidade de paginar a consulta.
+1. Listar todos os produtos cadastrados com as suas categorias e fornecedores e a possibilidade de paginar a consulta.
 1. Consulta de categorias com os produtos atrelados.
